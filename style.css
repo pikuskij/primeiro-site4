@@ -10,7 +10,7 @@ body{
 
         #curtidas{
         background-color: blueviolet; /*cor de fundo*/
-        color: blueviolet; /*cor da letra*/
+        color: rgb(22, 0, 43); /*cor da letra*/
         padding: 5px 10px 5px 10px
-        border: 2px solid
+        border 2px solid
         }
